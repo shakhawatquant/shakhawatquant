@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shakhawatquant
 - 👀 I’m interested in web application
 - 🌱 Pro in php and js
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning and working with python
 
 <!---
 shakhawatquant/shakhawatquant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
